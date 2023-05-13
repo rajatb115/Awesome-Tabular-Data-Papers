@@ -1,4 +1,4 @@
-# Awesome-Tabular-Data-Papers
+# Awesome-Tabular-Data
 _**Keep updating. Welcome to contribute.**_
 
 ## Contents
