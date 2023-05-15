@@ -2,10 +2,10 @@
 _**Keep updating. Welcome to contribute.**_
 
 ## Contents
-- [Survey](#survey)
+- [Survey Paper](#survey)
 - [Research Paper](#research_paper)
 
-## <span id = "survey"> **Survey** </span>
+## <span id = "survey"> **Survey Paper** </span>
 | Title | Venue | Year |Links |
 | :--------------------: | :-------------: | :-----: | :-------: |
 
