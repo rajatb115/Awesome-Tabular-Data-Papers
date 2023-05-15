@@ -23,6 +23,7 @@ _**Keep updating. Welcome to contribute.**_
 | Can Foundational Models Wrangle Your Data? | PLDV | 2022 | [Paper](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf) |
 | Transformers for Tabular Data Representation: A Tutorial on Models and Applications | Proc. VLDB Endow | 2022 | [Paper](https://www.vldb.org/pvldb/vol15/p3746-badaro.pdf) |
 | TURL: Table Understanding through Representation Learning | ArXiv | 2020 | [Paper](https://www.semanticscholar.org/paper/TURL%3A-Table-Understanding-through-Representation-Deng-Sun/5b3d791caf682998bbd96ce08a98bfc95a86b3a6) |
+| TABBIE: Pretrained Representations of Tabular Data | NAACL | 2021 | [Paper](https://www.semanticscholar.org/paper/TABBIE%3A-Pretrained-Representations-of-Tabular-Data-Iida-Thai/386bfd0e411dee4f512a8737c55dd84846981182) |
 
 
 ## <span id = "dataset"> **Dataset** </span>
