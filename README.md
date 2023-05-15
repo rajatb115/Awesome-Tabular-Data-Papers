@@ -9,9 +9,9 @@ _**Keep updating. Welcome to contribute.**_
 ## <span id = "survey"> **Survey Paper** </span>
 | Title | Venue | Year |Links |
 | :--------------------: | :-------------: | :-----: | :-------: |
+| Transformers for Tabular Data Representation: A Survey of Models and Applications | Transactions of the Association for Computational Linguistics | 2023 | [Paper](https://www.semanticscholar.org/paper/Transformers-for-Tabular-Data-Representation%3A-A-of-Badaro-Saeed/18ff1542d5a2a4490c7b3f21522bf1343889f700) |
 | Table Pre-training: A Survey on Model Architectures, Pre-training Objectives, and Downstream Tasks | ArXiv | 2022 | [Paper](https://www.semanticscholar.org/paper/Table-Pre-training%3A-A-Survey-on-Model-Pretraining-Dong-Cheng/49f4b4ca86e574c7ec688cfd45d2e17ff079c313) |
 | Deep Neural Networks and Tabular Data: A Survey | IEEE transactions on neural networks and learning systems | 2021 | [Paper](https://pubmed.ncbi.nlm.nih.gov/37015381/) |
-| Transformers for Tabular Data Representation: A Survey of Models and Applications | Transactions of the Association for Computational Linguistics | 2023 | [Paper](https://www.semanticscholar.org/paper/Transformers-for-Tabular-Data-Representation%3A-A-of-Badaro-Saeed/18ff1542d5a2a4490c7b3f21522bf1343889f700) |
 |  |  |  |  |
 
 
