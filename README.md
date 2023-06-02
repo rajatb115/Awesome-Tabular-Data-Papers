@@ -44,3 +44,4 @@ _**Keep updating. Welcome to contribute.**_
 | <span id = "WikiT">[4]</span> | WikiTables |  | 2020 |  |
 | <span id = "TabFact">[5]</span> | TabFact | ArXiv | 2019 | [Link](https://www.semanticscholar.org/paper/TabFact%3A-A-Large-scale-Dataset-for-Table-based-Fact-Chen-Wang/ee4e24bdedd4d2e4be977bd0ca9f68a06ebb4d96) |
 | <span id = "WikiTableQuestion">[6]</span> | WikiTableQuestion | ACL | 2015 | [Link](https://ppasupat.github.io/WikiTableQuestions/) |
+| <span id = "FetaQA">[7]</span> | FeTaQA | ACL | 2022 | [Link](https://aclanthology.org/2022.tacl-1.3/) |
