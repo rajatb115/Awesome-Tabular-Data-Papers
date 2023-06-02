@@ -18,6 +18,7 @@ _**Keep updating. Welcome to contribute.**_
 ## <span id = "research_paper"> **Research Paper** </span>
 | Title | Venue | Year |Links | Task | Dataset |
 | :--------------------: | :-------------: | :-----: | :-------: | :--------: | :--------: |
+| Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning | SIGIR | 2023 | [Paper](https://arxiv.org/pdf/2301.13808v3.pdf) | Q/A and Fact Verification | [5](#TabFact), [6](#WikiTableQuestion), [7](#FeTaQA) |
 | UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models | EMNLP | 2022 | [Paper](https://arxiv.org/abs/2201.05966) |  |  |
 | Can Foundational Models Wrangle Your Data? | PLDV | 2022 | [Paper](https://www.vldb.org/pvldb/vol16/p738-narayan.pdf) |  |  |
 | TaPEx: Table Pre-training via Learning a Neural SQL Executor | ICLR | 2022 | [Paper](https://paperswithcode.com/paper/tapex-table-pre-training-via-learning-a) | table-text joint reasoning |  |
@@ -44,4 +45,5 @@ _**Keep updating. Welcome to contribute.**_
 | <span id = "WikiT">[4]</span> | WikiTables |  | 2020 |  |
 | <span id = "TabFact">[5]</span> | TabFact | ArXiv | 2019 | [Link](https://www.semanticscholar.org/paper/TabFact%3A-A-Large-scale-Dataset-for-Table-based-Fact-Chen-Wang/ee4e24bdedd4d2e4be977bd0ca9f68a06ebb4d96) |
 | <span id = "WikiTableQuestion">[6]</span> | WikiTableQuestion | ACL | 2015 | [Link](https://ppasupat.github.io/WikiTableQuestions/) |
-| <span id = "FetaQA">[7]</span> | FeTaQA | ACL | 2022 | [Link](https://aclanthology.org/2022.tacl-1.3/) |
+| <span id = "FeTaQA">[7]</span> | FeTaQA | ACL | 2022 | [Link](https://aclanthology.org/2022.tacl-1.3/) |
+| <span id = "ToTTo">[8]</span> | ToTTo | EMNLP | 2020 | [Link](https://paperswithcode.com/paper/totto-a-controlled-table-to-text-generation) |
