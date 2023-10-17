@@ -47,4 +47,4 @@ _**Keep updating. Welcome to contribute.**_
 | <span id = "WikiTableQuestion">[6]</span> | WikiTableQuestion | ACL | 2015 | [Link](https://ppasupat.github.io/WikiTableQuestions/) |
 | <span id = "FeTaQA">[7]</span> | FeTaQA | ACL | 2022 | [Link](https://aclanthology.org/2022.tacl-1.3/) |
 | <span id = "ToTTo">[8]</span> | ToTTo | EMNLP | 2020 | [Link](https://paperswithcode.com/paper/totto-a-controlled-table-to-text-generation) |
-| <span id = "TabLib">[9]</span> | TabLib: A Dataset of 627M Tables with Context | | 2023 | [Link](https://arxiv.org/pdf/2310.07875.pdf) |
+| <span id = "TabLib">[9]</span> | TabLib: A Dataset of 627M Tables with Context | | 2023 | [Link](https://huggingface.co/datasets/approximatelabs/tablib-v1-full) |
